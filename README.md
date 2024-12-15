@@ -28,9 +28,9 @@ This project is a simple Dog Image Gallery built with JavaScript. It fetches ran
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML/CSS
 - JavaScript
+- React
 - Dog CEO API (https://dog.ceo/dog-api/)
 
 ## Contributing
